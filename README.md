@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aymeeflores
-- 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... to code
-- 💞️ I’m looking to collaborate on ... coding
+- 👀 I’m interested in making a carreer change to web development.
+- 🌱 I’m currently attending coding bootcamp.
+- 💞️ I’m looking to collaborate on projects that allow me to master my skills.
 - 📫 How to reach me ...
 
 <!---
