@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aymeeflores
 - 👀 I’m interested in making a carreer change to web development.
-- 🌱 I’m currently attending coding bootcamp.
+- 🌱 I just graduated from coding bootcamp! :D
 - 💞️ I’m looking to collaborate on projects that allow me to master my skills.
 
 
